@@ -12,6 +12,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/another-new-post/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/this-one-in-markdown/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
